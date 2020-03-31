@@ -1,0 +1,10 @@
+.header{
+    
+    text-align: center;
+    margin: 0 auto;
+}
+
+.header > a{
+    color: orange;
+    margin-left: 17%;
+}
